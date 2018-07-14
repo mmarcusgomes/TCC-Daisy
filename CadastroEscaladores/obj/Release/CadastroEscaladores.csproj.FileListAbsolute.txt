@@ -1,0 +1,24 @@
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\Cadastro Escaladores.exe.config
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\Cadastro Escaladores.application
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\EntityFramework.dll
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\EntityFramework.xml
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscalador.BuscarEscalador.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscalador.Cadastro.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.ConsultaLocalidades.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.Consultas.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscalador.EditarEscalador.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.NovaVisita.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscalador.Principal.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.Properties.Resources.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.Views.SplashScreem.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\CadastroEscaladores.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\Cadastro Escaladores.application
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\Release\Cadastro Escaladores.pdb

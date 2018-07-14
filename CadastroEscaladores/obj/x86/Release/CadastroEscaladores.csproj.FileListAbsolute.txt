@@ -1,0 +1,143 @@
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+C:\Users\Marcus\Desktop\Projeto Escalada-2.0-01-05-17\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Desktop\Cadastro Escalador 3.0\Cadastro Escalador 3.0\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Views.SplashScreem.resources
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Desktop\Codigo Fonte\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Views.SplashScreem.resources
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+C:\Users\Familia\Documents\MEGA\Modificando as telas do programa\Projeto Escalada\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csprojResolveAssemblyReference.cache
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Views.SplashScreem.resources
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.CoreCompileInputs.cache
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+D:\Arquivos Mega\Modificando as telas do programa\TCC - Daisy\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.config
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe.manifest
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.application
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.exe
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\Cadastro Escaladores.pdb
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\EntityFramework.dll
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\EntityFramework.xml
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscalador.BuscarEscalador.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Cadastro.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.ConsultaLocalidades.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Consultas.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscalador.EditarEscalador.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.NovaVisita.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscalador.Principal.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Properties.Resources.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.Views.SplashScreem.resources
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.GenerateResource.Cache
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\CadastroEscaladores.csproj.CoreCompileInputs.cache
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe.manifest
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.application
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.exe
+D:\Arquivos Mega\Modificando as telas do programa\Daisy- Codigo Fonte\CadastroEscaladores\obj\x86\Release\Cadastro Escaladores.pdb
